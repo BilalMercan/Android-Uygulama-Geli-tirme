@@ -1,1 +1,3 @@
-# Android-Uygulama-Geli-tirme
+# Android-Uygulama-Gelistirme
+
+Tanıtım Uygulaması 
