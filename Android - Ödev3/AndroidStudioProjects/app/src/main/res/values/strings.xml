@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login App</string>
+    <string name="kayitbuton">Kayıt Ol</string>
+    <string name="homebuton">Anasayfa</string>
+    <string name="tv">Kayıt Ekranı</string>
+    <string name="adtext">Ad</string>
+    <string name="soyadtext">Soyad</string>
+    <string name="e_postatext">E-posta</string>
+    <string name="ifre_tekrartext">şifre tekrar</string>
+    <string name="sifretext">şifre</string>
+    <string name="yastext">Yaş</string>
+    <string name="girisbuton">Giriş Yap</string>
+    <string name="e_postagiristext">E-posta</string>
+    <string name="sifregiristext">şifre</string>
+    <string name="Loginsavepage">Kayıt Oluştur</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="exit">Çıkış</string>
+    <string name="Cv">İş Deneyimlerim</string>
+    <string name="school">Eğitim Bilgilerim</string>
+    <string name="tv2">Bilal Mercan      Okan Üniversitesi Mobil Teknolojileri bölümünde okumaktayım.</string>
+    <string name="tv3">HAKKIMDA</string>
+    <string name="about">Hakkımda</string>
+    <string name="hktv2">Bilal Mercan      Okan Üniversitesi Mobil Teknolojileri bölümünde okumaktayım.</string>
+</resources>

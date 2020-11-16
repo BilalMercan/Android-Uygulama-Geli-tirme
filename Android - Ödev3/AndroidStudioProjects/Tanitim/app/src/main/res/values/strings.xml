@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tanıtım</string>
+    <string name="hakkimda">Hakkımda</string>
+    <string name="Hk">Bilal Mercan      Okan Üniversitesi Mobil Teknolojileri bölümünde okumaktayım.</string>
+    <string name="cv">Android ve İos platformu için Bilgi Yarışması, Sözlük, Otel Tanıtım gibi çeşitli uygulamalar geliştirmekteyim.</string>
+    <string name="exit">Çıkış</string>
+</resources>
