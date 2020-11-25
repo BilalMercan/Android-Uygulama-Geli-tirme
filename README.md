@@ -1,1 +1,1 @@
-Kullanıcının ad, soyad, yaş ve email bilgilerinin yer aldığı kayıt uygulaması
+Ödev - 4 : Ülkemizin 10 şehirinin bilgilerinin yer aldığı şehir tanıtım uygulaması.
