@@ -1,1 +1,1 @@
-Ödev - 4 : Ülkemizin 10 şehirinin bilgilerinin yer aldığı şehir tanıtım uygulaması.
+Ödev - 6 : Kamera uygulaması. Çekilen fotoğrafları gridview ile gösterimini sağlayan uygulama
