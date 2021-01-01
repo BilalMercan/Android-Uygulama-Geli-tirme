@@ -1,2 +1,1 @@
-Ödev - 6 : Kamera uygulaması.
-Çekilen fotoğrafları gridview ile gösterimini sağlayan uygulama
+Ödev - 7 : SoundPool - MediaPlayer - ExoPlayer Karşılaştırma Tablosu
